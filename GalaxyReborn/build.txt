@@ -1,0 +1,4 @@
+displayName = Galaxy Reborn
+author = Nova_MHK10 - Gaming
+version = 1.0.0.1
+homepage = https://docs.google.com/document/d/1J1CwALb29p1-rXS6fE3BvSQQMDANf0S5Oybhgqj0z0w
